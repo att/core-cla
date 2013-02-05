@@ -11,8 +11,12 @@ in the `master` branch--this may change in the future; we will update these inst
 
 # After We Receive the CLA
 
-  1. Each received CLA that is complete and signed will be placed in the `collected/cla/XYZ` where `XYZ` is name of the signee.
-  2. Verify your CLA is in this directory. If/when it is, you are officially a part of the Discourse contribution community!
+  1. Each received CLA that is complete and signed will be **encrypted using our private key** and placed in the `collected/cla/XYZ` where `XYZ` is name of the signee.
+  2. Verify your **encrypted** CLA filename is in this directory. If/when it is, you are officially a part of the Discourse contribution community!
+
+# I would like to amend the CLA process
+
+If you dislike the current process and would like to see it amended, raise it on http://meta.discourse.org , the team is open to improving it.
 
 # To Do
 
