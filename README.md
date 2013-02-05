@@ -7,7 +7,7 @@ in the `master` branch--this may change in the future; we will update these inst
 # How to Submit
 
   1. Print the CLA.
-  2. Complete the CLA, sign it, scan it back to PDF, and e-mail it to `info@discourse.org`.
+  2. Complete the CLA, sign it, scan it back to PDF, and e-mail it to `team@discourse.org`.
 
 # After We Receive the CLA
 
